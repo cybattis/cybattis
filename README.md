@@ -7,8 +7,8 @@
 ---
 # About me
 
-👨🏼‍🎓 Currently student at 42 Lyon, in France.
-🌱 Currently learning C and CPP languages.
+- 🎓 Currently student at 42 Lyon, in France.
+- 🌱 Currently learning C and CPP languages.
 
 ---
 

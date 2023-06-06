@@ -8,7 +8,8 @@
 ### About me
 
 - 🎓 Currently student at 42 Lyon, in France.
-- 🌱 Currently learning C and CPP languages.
+- 🌱 Currently learning TypeScript and C# languages.
+- 🌟 Passionate about graphics programming.
 
 ---
 
